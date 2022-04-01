@@ -1,2 +1,0 @@
-Sololearn Certificate:
-                       
