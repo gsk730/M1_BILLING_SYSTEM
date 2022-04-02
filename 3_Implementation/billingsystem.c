@@ -288,7 +288,7 @@ int displaybill()
 }
 int deletebill()
 {
-	int q,billid,f;
+	int q,billid,f=0;
 	fp2=fopen("generate.txt","w");
 	fclose(fp2);
 	printf("\nEnter your bill ID to Delete BILL==");
