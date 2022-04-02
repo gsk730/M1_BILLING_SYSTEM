@@ -16,22 +16,6 @@
  # How 
  * User goes to enter the details of the product and the quantity .In turn it generates the bill id and when the bill id is used by the shop keeper.He comes to know the things that are buyied and generates the bill. Afterwards the shopkeeper displays bill.After the payment process is done, we can delete the bill.
  
- # SWOT_ANALYSIS
- # STRENGTHS                                                
-          * Easy to manage crowd                                       
-          * Easy tracking of bills                                     
-          * Saves time and money                                        
-          * Minimizes human errors                    
- # WEAKNESSES 
-         * Not cost effective for small scale shops
-         * Security issue due to login credentials
-         * Price of product should be updated regularly 
- # OPPURTUNITIES
-         * To develop an app interface 
-         * Faster billing and instant payment process
-         * Enhancement of security
- # Threats:
-         * Security issues
  # Detail Requirements
  # High level Requirements
  | ID | Description | Category | Status | 
