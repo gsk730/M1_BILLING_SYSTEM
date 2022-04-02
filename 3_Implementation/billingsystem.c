@@ -232,7 +232,7 @@ int generatebill()
 			printf("\nsr. no.=%d",i+1);
 			printf("\nitem name=%s",bi.itemname[i]);
 			printf("\nitem price=%f",bi.itemprice[i]);
-			printf("\nquqntity=%d",bi.quant[i]);
+			printf("\nquantity=%d",bi.quant[i]);
 			printf("\nprice=%f",(bi.itemprice[i])*(bi.quant[i]));
 			total=total+((bi.itemprice[i])*(bi.quant[i]));
 			break;
