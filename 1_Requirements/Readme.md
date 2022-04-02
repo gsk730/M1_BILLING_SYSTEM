@@ -16,4 +16,7 @@
  # How 
  * User goes to enter the details of the product and the quantity .In turn it generates the bill id and when the bill id is used by the shop keeper.He comes to know the things that are buyied and generates the bill. Afterwards the shopkeeper displays bill.After the payment process is done, we can delete the bill.
  
- 
+ # SWOT_ANALYSIS
+ # Detail Requirements
+ # High level Requirements
+ # Low level Requirements 
